@@ -3,4 +3,4 @@
 
  ### Project list:
  - Dice Roller:
-    -> I created since from a simple code without using GUI to one using GUI
+    - I created since from a simple code without using GUI to one using GUI
