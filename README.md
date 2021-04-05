@@ -1,5 +1,5 @@
 # Projects
- A repository where I share my small and big projects
+ A repository where I share the small and big projects I created
 
  ### Project list:
  - Dice Roller:
