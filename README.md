@@ -6,5 +6,5 @@
  - Dice Roller:
     - I created since from a simple code without using GUI to one using GUI
  - Following users on Github
-   - A Jupyter Notebook script the intends to automatize the action of following users on Github based on a given criteria
+   - A Jupyter Notebook script that intends to automate the action of following users on Github based on a given criteria
 
